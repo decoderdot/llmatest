@@ -1,0 +1,1145 @@
+﻿Getting Started
+What is Quickly Restaurant?
+Quickly Restaurant is a fully portable, subscription-based, affordable software solution for restaurants and food shops. It is a Software as a Service (SaaS) solution that helps businesses manage and track their inventory, generate bills, calculate profits, and more.
+The business owner portal and application are equipped with all the necessary features you will need to keep yourself up-to-date with your business and configure things your business needs on the fly. The ordering app is designed and built in such a way that it becomes easy for your staff to operate swiftly and conveniently, even for people who are not used to smartphones. It also comes with a portable Bluetooth printer to avoid all the clutter of cables and power supply, so that it takes less space and gives freedom to your staff to operate even from a distance.
+Key features of Quickly Restaurant include:
+* Portable and affordable: Quickly Restaurant is a cloud-based solution, so you can access it from anywhere in the world. It is also very affordable, making it a great option for small businesses.
+* Easy to use: The ordering app is designed to be easy to use, even for people who are not familiar with smartphones. The business owner portal is also easy to use, and it provides you with all the information you need to manage your business.
+* Secure and reliable: Your data is stored in a highly secure Google Cloud server, and you can access it at any time. Quickly Restaurant also provides excellent customer support.
+If you are looking for a reliable and affordable restaurant management software solution, then Quickly Restaurant is a great option. It is easy to use, secure, and reliable, and it provides you with all the features you need to manage your business.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Why Quickly Restaurant?
+Welcome to Quickly Restaurant, a game-changer for restaurant owners like you. We understand that your time is precious, and managing your restaurant can be challenging, especially when you're not physically present. That's why we've designed our software to empower you to run your business smoothly from anywhere in the world.
+
+
+Key Benefits of Choosing Quickly Restaurant:
+
+
+1. Hassle-free Setup: Unlike traditional POS software, our service-based solution eliminates the need for expensive setups and hardware. No more worrying about hefty installation and maintenance costs.
+
+
+2. Real-time Analytics: Stay on top of your business with our intuitive graphs and charts. Easily track order growth, revenue, and inventory trends, enabling you to make informed decisions right when you need to.
+
+
+3. Access Anytime, Anywhere: Your data is essential, and we value that. With our cloud-based system, you can access your restaurant's information 24/7 from any Android device, all you need is a reliable internet connection.
+
+
+4. Simple and Convenient: No need for expensive gadgets; our app works seamlessly on any smartphone. From the moment you start using it, you can bid farewell to pen and paper.
+
+
+5. Affordable Pricing: We offer competitive pricing with a one-month trial period. Experience the ease and efficiency of our software at your convenience.
+
+
+6. Comprehensive Support: Our Support Portal provides step-by-step tutorials for our business portal and mobile app. And don't worry about IT challenges; our dedicated customer support team is available 24/7 to assist you over the phone.
+
+
+Experience the freedom of running your restaurant business without constraints. Choose Quickly Restaurant and take control of your success.
+
+
+
+
+Manage Your Quickly Account
+We understand that it is difficult to remember the individual login IDs and passwords for multiple restaurants’ accounts. A Quickly Restaurant account provides access to add unlimited restaurants under your single-user account.
+With Quickly user account, you can do things like
+* Monitor all your restaurants from a single place
+* Easily switch between them
+* Get aggregated reports of all the restaurants you have
+* Get all mails (for-instance bills, reports) to a particular email address
+* Get all SMS to a particular phone number
+
+
+
+
+Change your profile picture, user name & contact info
+
+
+You can add or update your personal info anytime from the User Account page.
+Add or change profile picture
+1. Go to Restaurant Home
+2. Click Manage Your Account under the user menu from navbar.
+  
+
+3. On your profile picture, click on the Camera Icon.
+  
+
+4. Select and upload your image.
+5. Crop your photo as required and click Save Profile Picture.
+Change name & contact info
+1. Go to yourAccount
+2. To add or change name, click Change next to the Name field under Personal Info.
+  
+
+3. Enter your name and click Save.
+4. To add or change email address and/or phone number, repeat the same steps.
+Recover or reset your password
+Reset your password
+You can change your password for security reasons or reset if you forget it.
+Change password
+1. Go to your Account
+2. Under "Password", click Change
+  
+
+3. Enter your current password and new password, then click Save.
+Reset your password
+1. Click Forgot Password from the Login page.
+2. Enter your Login ID and click Send.
+3. You will receive an email or SMS.
+If you don’t get any email, check your Spam or Bulk Mail folders. Note that you cannot request for password reset more than twice in a row.
+4. Now click the Reset Password button in the email. You will be redirected to the password reset page.
+5. Choose a new password, then click Reset Password.
+
+
+Disable any module
+You can disable the Inventory, Accounts & Expenses, and e-Restaurant module from the Modules section in Branding & Settings.
+   1. Click Disable next to the module you want to disable. It will take you to the module's disable request page.
+  
+
+   2. Select the reason for disabling. We recommend you to provide your feedback, but it is optional. Note that you cannot enable it again before 72 hours.
+   3. Click Disable
+Unless you are on a free period, you will be charged for the use of this module until the disable date.
+Deactivate Quickly Restaurant
+If you have closed a restaurant or want to deactivate the service temporarily/permanently for other reasons,
+   1. Go to Deactivate Service in Branding & Settings.
+   2. Click Request to Deactivate
+  
+
+   3. Select the reason for deactivating. We recommend you to provide your feedback, but it is optional.
+   4. Click Confirm
+If you have any due bill, you must pay it before deactivating. You will be charged for the usage until the deactivation date unless you are on a free period.
+You will be notified via email once your request has been processed. Note that if your restaurant remains deactivated for 1 year, we may permanently remove all the data.
+You can re-activate your restaurant anytime by creating a Support Ticket or contacting us.
+Setup Your Business
+Add restaurant(s) under one user account
+Before adding any restaurant, you need to verify your email and provide some personal information.
+You can add as many restaurants as you want.
+   1. Go to your Account
+   2. From the Your Restaurants section, click Proceed.
+If you have previously added restaurants, click Add another restaurant under your restaurant list.
+
+
+  
+
+      3. Enter your restaurant’s information and click Add Restaurant
+Now select your preferred module(s) and start your business adventure with Quickly!
+Updating Business-related info & Receipt Design
+From the Restaurant Home page, click on Branding & Settings from the navigation bar, or Click on Branding & Settings under the Other Options at the bottom of the Home page.
+          
+
+
+On the Branding page, the restaurant name, email, and phone number are there as you sign up on our portal. You can put down some related descriptions, address details with pin point location in the map and social media links if you want but defining the state/division, and district/city of your business is mandatory. You can also upload your business logo and click on the Save button to update all the details.
+
+
+
+
+  
+
+
+
+Customize your configuration 
+From the Configuration section under Branding & Settings, you can choose your Business Operation Model, set currency and timezone, set your preferred Sales Tax Title and Tax Registration Info. You can also select your business type (restaurant, cafe, food shop, catering, etc). 
+
+
+  
+
+
+
+Customize your receipt’s design
+You can personalize the template for your printed receipts just the way you want. For example, you can include your restaurant's logo and social media addresses, as well as choose whether to display the sales tax as Tax, VAT, or BIN. Additionally, you can include restaurant information or a promotional message in the header and footer of your receipts. The template is viewable in both 58mm and 78mm formats.
+      1. Go to Printing Setup from Account
+      2. Customize your receipt, and click Save.
+
+
+  
+
+
+
+Setup your business hours
+Setting business hours are vital because you will have your everyday revenue summary according to the business hours. Just like the staff members you hire, the equipment you buy, and the location you choose, your hours can be an asset or an obstacle for your business.
+On the Business Hours page, you can set up the starting day of the week with your operating hours according to your business activity. Tick on the close button if your business is closed for a certain period and click on the Save button.
+  
+
+
+
+Manage Your Staff
+Invite users and control their access
+With Quickly, you have complete control over what your staff sees. You can define roles for individual users and assign rights for the modules and apps.
+To add a user,
+      1. Go to User & Role and click Invite User.
+  
+
+      2. Enter the email address or phone number of that user.
+Note that it will be used as his login ID.
+      3. Assign roles, and click Save.
+The user will receive an invitation via email/SMS (depending on which one you have provided). If the invited user does not have a Quickly Restaurant account, he will be taken to the Sign Up page right after he accepts the invitation. Then he will have to set a password for himself. He will be able to access your restaurant once he accepts the invitation.
+You can change the user’s access anytime from User & Role. You can also deactivate the user if you want.
+Keep records of your employees’ info
+You will find an employee profile for each of your users in the employee profile page. To keep records of your employee’s information (e.g. position, department, address, emergency contact, national ID card etc.),
+
+
+         1. Go to Employee Profile.
+         2. Click New Employee or Edit
+         3. Add information, and click Update
+  
+
+To remove an employee from your restaurant, click Deactivate.
+Organize Your Restaurant’s Menu
+Upload an excel file to import your menu at once
+If you are in a restaurant business, the most important thing you need to have is a well-organized menu and that is why Quickly Restaurant eases the integration of dishes into our platform by categorizing dishes. It's effortless to add dishes and categories from your business portal.
+Import your menu
+
+
+  
+
+
+
+  
+
+         1. Go to Menu > Dish in the Sales & Billing module.
+         2. Click Import Dish
+         3. Download the sample file and insert your dishes to the excel.
+         4. Note that you must add category, dish and price for every dish.
+         5. Choose the file and click Upload.
+         6. You will be redirected to the Review & Import page. Click Review & Import after checking the dishes.
+If you don't want to import the entire menu, you can pause and resume where you left off.
+Manually enter your menu to Quickly
+Add or update a category
+  
+
+         1. Go to Menu > Category in the Sales & Billing module
+         2. Click New Category.
+         3. Add category details and click Create.
+         4. To update a category, click the Edit link next to it.
+Add or update a dish
+  
+
+         1. Go to Menu > Dish in the Sales & Billing module.
+         2. Click New Dish
+         3. Add dish details and click Create.
+         4. To update a dish, click the Edit link next to it.
+Save priority of the categories and dishes to set the order of displaying them on the order taking app or your e-Restaurant website.
+To stop accepting orders for a specific dish/category, deactivate it by unchecking the box next to it. You can reactivate it at any time from the inactive dish/category list.
+Add images to your menu
+         1. Go to Dish from the Menu.
+         2. Click Edit
+         3. Go the Image section under Pricing, and click Choose Image.
+         4. Crop image and Update.
+Replicate one restaurant’s menu for other restaurants
+If you also want to replicate the menu of any restaurant, go to that restaurant's Menu > Dish and click on the "Export Dish" button. The menu will be exported as a PDF file. To upload the menu to another restaurant, go to that restaurant's "Import Dish" section and upload the PDF file. The menu will be imported successfully.
+  
+
+
+
+Provide contactless menu to your customers (QR-Menu)
+  
+
+Let your diners scan a QR code to view your restaurant's menus on their own devices. Then they can place their order with the waiter, keeping the dining experience personal, like it was before but safer & smarter.
+         1. Enable e-Menu from the Sales & Billing Module
+         2. Add images to your dishes to make them look attractive.
+         3. To edit the e-Menu URL, click Change next to it.
+           
+         4. Download and print the QR code.
+Now place them on your restaurant tables and let diners scan code and see your menu on their own device.
+Diners can order by themselves using Table Ordering System
+Create digital menus for your restaurant with a QR-Code. Customers will be able to easily see your menu and place orders directly from their phones! You can download and print the menu QR Code as your restaurant's tabletop or counter top flyer. All customers have to do is scan the code and they'll be immediately taken to the menu from where they can start ordering. They can also view cart, view recent orders and call an attendant.
+          
+All you need to do is, 
+            1. Go to Preferences of Sales & Billing module.
+            2. Go to Order Identification, select Table, input table numbers & click on Save.
+  
+ 
+            3. Go to Menu > Table Ordering System
+            4. Enable Table Ordering System
+  
+ 
+            5. Download and print the menu QR Code for each table. Place the QR code on the tabletop or counter as a flyer.
+You can print the QR code for every table generated by Table Ordering System and have customers scan it with their devices. Once they scan the QR code, the QR Menu specific to that table will open on their device, allowing customers to easily place their orders directly from their own devices.
+Configure Your Sales & Billing Preferences
+Set your Sales Tax and Supplementary Duty (SD)
+If you click on preferences, a list of categories will appear in the Preferences page, from where you can add/edit Sales-Tax and Supplementary Duty (SD) as you want. The updated Sales Tax & SD will be applicable to the Quickly Restaurant app while placing orders.
+
+
+  
+
+
+
+Taxes for different food items can be different, and you can set the SalesTax and Supplementary Duty (SD) according to each Category. For example, Sales Tax for Pasta is set here 3% whereas, for Pizza and Noodles it is 5% and 4% respectively.
+
+
+Again, you can set same Sales Tax and SD for all the dishes simply by putting a fixed Sales Tax and fixed SD in the “Apply same Sales Tax for all dishes” & “Apply same Supplementary Duty (SD) for all dishes” fields.  
+
+
+After setting the sales tax, click on the Save button to update your settings.
+
+
+  
+
+
+
+Or,
+If you want to include the Sales Tax & SD with the food prices for all the categories, then click on the switch button of “All prices are inclusive of Sales Tax & SD” and Save.
+
+
+  
+
+List down the payment modes you offer
+Under the Payment Mode tab in the preferences page, you can create different payment modes to provide flexibility and convenience to your customers while they are making payment. Generally, the payment mode is set to Cash by default.
+
+
+You can also enable Due Mode for customers to make a purchase on credit or due.
+            1. Go to Payment Mode Page.
+            2. Enter minimum credit limit and click on Enable.
+
+
+  
+
+
+
+Click on the +New Payment Mode and simply select the type from the list, i.e. Cash, Card POS, Mobile Banking or Delivery Service.
+
+
+  
+
+
+
+After selecting the type, write the title of the mode in the Title field and click on the Save button. 
+
+
+If you want the customer to pay the fee/commission, mark the checkbox below the fee/commission box. If the checkbox remains unmarked, the fee/commission will be automatically included with the restaurant's total bill amount.
+
+
+Alternatively, if you want to set the fee/commission to zero, you can do so, and in that case, no extra charge will be applicable for the customer.
+
+
+  
+
+
+
+You can activate or deactivate any payment mode for the Sales & Billing app whenever you want to.
+
+
+  
+
+
+
+Track your orders by table/token and the services you offer
+Under the Order Identification tab, you will find the options to track your restaurant orders using table or token numbers.
+
+
+If the KOT is selected, then the software will automatically input the token numbers with each order in the app. Every day the token number will start with 1 and it will increase with each order and there is no limit.
+
+
+  
+
+
+
+If you want to track your orders manually, select the Token option and write down the names or numbers of the token and finally, click on the Save button. A layout will be shown in the Sales & Billing app containing those token numbers while placing orders using the app.
+
+
+  
+
+
+
+If you want to track your orders using the table numbers, select the Table option and write down the number of tables you have in your restaurant. Next click on the Save button. A layout will be shown in the app containing the table numbers while placing orders using the app.
+
+
+  
+
+
+
+You can identify orders based on the services provided to your customers such as, Dine-in, Takeaway, Restaurant Delivery and Delivery Service. At the right column of the Order Identification page, you will find the list of services you can provide to your customers. You can set the restaurant’s delivery charge as well and finally update your preferences by clicking on the Save button.
+
+
+  
+
+
+
+Customize your app user settings
+If you want your Restaurant manager to be able to give instant discounts to any customer in the restaurant before generating bill, you need to check the Discount available at cash counter option and Save, which you will find under the App User Settings tab in the Preference page. Manager is allowed to give the discounts in two (Cash or Percentage) modes.
+
+
+  
+
+
+
+You can also restrict the access of Host or Attendant by checking the Restricted access for Host/Attendant option. By enabling this option hosts and attendees will have restricted access and will only be able to see the orders they have placed.
+
+
+  
+
+
+
+Setup your restaurant’s service charge
+You can set a specific service charge and VAT on service charge for your restaurant from Service Cgarge section in Preferences. 
+  
+
+
+
+To set service charge,
+            1. Go to Preferences > Service Charge in the Sales & Billing module.
+            2. Enable Service Charge.
+            3. Add the service charge amount in percentage.
+            4. Add VAT on service charge. If there are none, enter 0.
+            5. Click Save.
+Note that the service charge will be calculated based on an order's net sales.
+Receive sales reports via email
+To help you to trace your business’s data in a more convenient way, we will send you the daily, weekly, and/or monthly sales reports to your mailbox. Under the Email Notification tab, switch on the type of reports you want to get via email.
+
+
+  
+
+
+
+Manage Promotional & Marketing activities
+Create offers and memberships to attract customers
+Offer your customers a fixed value, or percentage discount on items in your restaurant. You can create free item offers (e.g. Buy 2 get 1 Free) to attract more customers.
+You can specify
+            * The date and time for which the offer is valid.
+            * Service types, for example if you want to set an offer only for online orders, you can choose restaurant delivery service.
+            * A minimum order amount to avail the discount.
+            * The categories and dishes the discount can be applied to.
+
+
+Add an offer
+
+
+  
+
+            1. Go to Promotions > Offer in the Sales & Billing Module.
+            2. Click New Offer.
+            3. Enter offer details.
+            4. For Discount offers, select the dishes from the Dishes section on the right. You can give discount in both Percentage or Amount.
+  
+
+            5. For Free Dish offers, add Deals.
+For example, if you want to create a buy 2 Peri Peri Pizza and get 1 BBQ Pizza free, add Peri Peri Pizza as Main Dish, and BBQ Pizza as Free Dish. You can change the items’ quantity and add multiple items to a single deal. Also you can create multiple deals.
+  
+
+               6. To update an offer, click the Edit link next to the offer.
+Add a membership
+You can create Membership if you want to offer discounts to a specific group of customers.
+  
+
+               1. Go to Promotions > Membership in the Sales & Billing Module.
+               2. Click New Membership.
+               3. Enter membership details and click Create.
+  
+
+               4. To update a membership, click the Edit link next to the offer.
+Note that if you have any ongoing offer, you must check Membership Applicable from the offer to provide membership.
+  
+
+After creating the membership, you can apply it from the order taking app.
+Collect Customer Information & Give reward points to your loyal customers
+
+
+You can collect your customers' name, number and mail id from the Sales & Billing App and can provide reward points to your loyal customers.
+
+
+Quickly’s Loyalty program lets you allocate reward points to your customers based on their purchases. Later on, customers can redeem these reward points and avail discounts at your restaurant.
+
+
+To enable Loyalty Program,
+               1. Go to CRM > Settings in the Sales & Billing Module.
+               2. Enable Collect Customer Information & Loyalty Program.
+               3. Set Cash to Reward Point & Reward Point to Cash fields.
+               4. Click on Enable Loyalty Program button.
+  
+
+
+
+View Customer Details & Make Pyment of remaining due
+After enabling Loyalty Program, Customer Information page will be available where you will find all your customers’ details and order informations. 
+
+
+  
+
+
+
+In customer information page, you can Import Customer, Download Customer List, Send Due SMS.
+You can view the order details of a particular customer by clicking on the customer’s name.
+
+
+  
+
+
+
+You can also make payment of remaining due amount clicking on Make Payment button from the Customer details page.
+
+
+  
+
+
+
+Set Customer Credit Limit
+You can set credit limit for your customers from Credit Limit page under CRM. Input credit amount for different customers as you want and click Save.
+
+
+  
+
+
+
+Or, you can apply a default credit limit for all users by simply setting an amount in the Apply default credit limit for all customers field. Click on Apply and Save after setting the amount.
+
+
+  
+
+
+
+Maintain your customers’ contact list
+A great customer experience is not limited to just your food services but also depends on how you engage with your audience. Quickly Marketing helps you to maintain a contact list of your customers and reach out to them with no effort.
+  
+
+
+
+               1. Go to Marketing > Contact Manager.
+               2. Click Import Contacts.
+               3. Download the given format and update the excel file with your customer informations.
+Note that you must provide a phone number for each contact.
+               4. Select the file and assign a tag for the contact list (e.g. friends), it will help you to filter the contacts, and then import.
+You can now find the contacts in Contact Manager and assign tags, delete, or edit any information right away.
+Run email or SMS campaigns
+Send personalized SMS and email to your customers with the latest offers, menu updates, event invites and congratulatory wishes on any occasion.
+
+
+Marketing helps you to directly reach out to your customers, create and manage SMS and email campaigns, all from within the familiar Quickly platform. No experience needed.
+
+
+Before you start, make sure you have enough marketing credit available.
+
+
+SMS Campaign
+SMS campaign is only available for the Bangladeshi restaurants.
+First, create a campaign.
+  
+
+
+
+                  1. Go to Marketing > SMS Campaign.
+                  2. Click New Campaign.
+                  3. Enter the campaign name, text message, and select contacts.
+If you don’t have any available contact groups, import contact list and assign tags from Contact Manager.
+                  4. Click Create.
+You will find the created campaign with its estimated cost and recipients in the SMS Campaign list.
+  
+
+
+
+To change any information, click on the campaign name, and Edit.
+To execute the campaign, click Send SMS.
+To create another campaign same as this, click Replicate Campaign.
+
+After a campaign has been executed, you can see an overview and the contact log by clicking on its title.
+Email Campaign
+Create beautifully branded emails in minutes with in-line editing, easily configurable content blocks and all the customization you need to make your brand shine.
+  
+
+
+
+                     1. Go to Marketing > Email Campaign.
+                     2. Click New Campaign.
+                     3. Enter the campaign name, email subject, content, from address and select contacts.
+If you don’t have any available contact groups, import contact list and assign tags from Contact Manager.
+                     4. Click Save.
+You will find the created campaign with its estimated cost and recipients in the Email Campaign list.
+  
+
+
+
+To change any information, click on the campaign name, and Edit.
+To execute the campaign, click Send Email.
+To create another campaign same as this, click Replicate Campaign.
+
+After a campaign has been executed, you can see an overview and the contact log by clicking on its title.
+Add credits to run campaigns
+  
+
+
+
+                        1. Go to Marketing Credit.
+                        2. Click Add Credit.
+                        3. Enter an amount, and click Recharge.
+Note that the amount must be greater than 10.
+
+
+Get In-Depth Analytics of your Restaurant’s Sales
+See your order details and summarized sales reports
+When you start taking orders through the Quickly Sales & Billing App, all the orders’ (billed, completed, deleted, and wastage) summary will be updated to the business portal. From the Sales & Billing module, click on the Sales Summary under the Sales dropdown menu in order to see the order summary of your restaurant.
+
+
+  
+
+
+
+All the orders placed through the app will be showing here with details. Orders can be filtered by Orders (i.e. All Order, Billed, Completed, Deleted, and Wastage), Users (i.e. Order Places By and Order Closed By), Services (Dine-in, Takeaway, Deliver, Food Delivery Service), Payment Mode (Cash by default), Order No, Note, Dish name, and Date (Today, Yesterday, Last 7 Days, Last 30 Days, This Month, Last Month, Custom Range).
+
+
+On the right side of the page, you will find the order details broken down in four sections: Sales Summary, Collection Summary, Profit Estimation, and Item Sales. You can expand each section to see the details. However, not only checking your order details, you can download, edit payment mode and reference in a very simple way. Clicking on the reference number of any order will show you the order details.
+
+
+  
+
+
+
+There is a download option at the right side of the Order Details page. To edit payment mode and reference, click on the Edit button. You can also delete the order from Order Details page.
+
+
+  
+
+
+
+You can easily change or add reference against the order by editing the order. Finally, update the page with all the given or changed data.
+
+
+  
+
+
+
+See all the Ongoing Orders for your Restaurant
+All the ongoing orders placed through the Sales & Billing app will be displayed on the Ongoing Orders page, along with their details. To access this page, navigate to the Sales & Billing module, and click on 'Ongoing Orders' under the Sales dropdown menu to view the ongoing orders for your restaurant.
+
+
+  
+
+
+
+Compare the performance of your restaurant's items
+Product Performance Report can help you understand an item's demand and how all items have been selling over time.
+
+
+You can get a daily, monthly or weekly item wise sales report for any date and time frame.
+Moreover, you can view items’ performance for a specific day of a week.
+
+
+  
+
+
+
+So you don’t need to open multiple reports to know how your items are selling. With Quickly Product Performance Report, you can compare the sales of your restaurant’s items at a single glance.
+
+
+Download your tax/vat and sales report
+Tax/Vat Report
+In order to check the daily or monthly Sales Tax Report, click on the Tax Report, from the Sales dropdown list.
+
+
+  
+
+
+
+Select Daily or Monthly from the dropdown list and search for the Sales Tax Report according to your preference.
+
+
+  
+
+
+
+If you want to search for the Sales Tax report for any specific date, select Daily from the dropdown and click on the date picker to pick a date and finally, click on the Search button. You can download the report by simply clicking on the Download button at the right corner.
+
+
+  
+
+
+
+If you want to search for the Sales Tax report for any specific month of any year, select Monthly from the dropdown and click on the date picker to pick a month and year; finally, click on the Search button. You can download the report by simply clicking on the Download button at the right corner.
+
+
+  
+
+
+
+Sales Report
+In order to check the Sales Report, click on the Sales Report, from the Sales dropdown list.
+
+
+  
+
+
+
+Sales Report can be filtered with Report Type (Servicewise Sales, Collection Summary, Profit Estimation and/or Itemwise Sales) and Filter Type (Dine-in, Takeaway, Restaurant Delivery and/or Delivery Service). You can also select a date range from the date picker (Current date as default) and the sales report will be displayed as your filtered preference. You can also download the report in PDF or Excel format by simply clicking on the Download button at the right corner.
+
+
+  
+
+
+
+Know your Customers' feedback
+Know your customers' feedback about your food, service, or ambiance to serve them a better experience. Customer feedback is essential for a restaurant as it helps to grow, improve, and continue providing memorable dining experiences to the guests.
+
+
+You can view all customer feedback collected from the Sales & Billing app when closing an order on the Customer Feedback page.
+
+
+  
+
+
+
+  
+
+
+
+View all your Reservations/Pre-Orders at the same place
+Restaurant reservations are a common practice in the hospitality industry and are beneficial for both customers and restaurant owners. You can create Reservation/Pre-order through your Restaurant Billing App and can view them on the Reservation/Pre-Order page under Sales & Billing module in the Business Portal. The date picker will be showing the current date. You can search any date to see the reservations of that day by selecting that date from the date picker. 
+
+
+  
+
+
+
+  
+
+
+
+Customize your kitchen preferences
+KOT Settings
+KOT settings are the preferences for how you want to send Kitchen Order Tickets (KOTs) to your kitchen. You can send KOTs to the kitchen in two ways: First, using the Kitchen Display System (Kitchen Display App), and second, through Kitchen Print (Printing KOT).
+Kitchen Display System
+The Kitchen Display System is often preferred for its real-time updates and efficient communication between the front-of-house and back-of-house staff. It reduces the reliance on paper tickets, minimizes the risk of misplaced orders, and helps streamline the kitchen workflow.
+
+
+If you select Kitchen Display System, you can send your order/s taken from Sales & Billing app to the Quickly Kitchen Display (App) and your kitchen staff will get a notification about the order. He can also see the detailed order in the Kitchen Display, accept the order and mark the order as done when the dishes are ready. 
+
+
+To enable Kitchen Display System,
+                           1. Go to Kitchen > KOT Settings under the Sales & Billing module. 
+                           2. Select Kitchen Display System (Quickly Kitchen Display)
+                           3. Select the user/s you want to receive the notifications in Sales & Billing app.
+                           4. Click on Save.
+`  
+
+
+Note that you have to download the Quickly Kitchen Display app to use Kitchen Display System.
+
+
+
+
+Kitchen Print
+Kitchen printing is a traditional and time-tested method used by many establishments to manage orders in their kitchen. In this approach, when an order is placed, a physical Kitchen Order Ticket (KOT) is automatically/manually printed in the kitchen area. The printed ticket contains all the relevant details of the order, such as the items, quantities, modifications, and any special requests.
+
+
+This tangible format allows kitchen staff to have a physical copy of the order, which they can refer to and work with as they prepare the dishes. The printed KOTs might be attached to the corresponding plates or cooking stations, or they could be placed on a designated board for easy visibility and organization.
+
+
+If you select Kitchen Print, you can print your order/s taken from Sales & Billing app through a printer connected to the app and send the physical copy of the print to the kitchen. The kitchen staff will see the ordered items containing all relevant details and make the dish ready.
+
+
+To enable Kitchen Print, 
+                           1. Go to Kitchen > KOT Settings under the Sales & Billing module. 
+                           2. Select Kitchen Print.
+                           3. Mark the check box if you want to see the kitchen logs.
+                           4. Select one of the options (Change List or Full Order) how you want to print any changes in KOT.
+                           5. Click on Save.
+
+
+  
+
+Monitor your kitchen activities with Kitchen Log
+Maintaining a kitchen log can promote better communication, organization, and compliance with food safety regulations. It provides a historical record that can be valuable for audits, quality control, and continuous improvement in the kitchen's operations.
+
+
+As a restaurant owner, you cannot oversee your kitchen all the time. Quickly allows you to monitor your restaurant’s kitchen activities from Kitchen History in real time.
+
+
+You can see ongoing kitchen orders, prepared dishes, and track any mismatched orders that are prepared but not served, for any date range.
+
+
+Note that you can see the orders in Kitchen Log that are sent to the Kitchen Display App and printed through Kitchen print if the log is enabled.
+
+
+  
+
+
+
+Customize kitchen configuration 
+You can customize kitchen configuration to optimize the kitchen's performance and deliver exceptional dining experiences to its customers.
+
+
+Add New Kitchen 
+There will be a default kitchen created by the system. You can edit the default kitchen’s title or add new kitchen for your restaurant as you want. You can also add multiple kitchens. 
+To add new kitchen, 
+                           1. Go to Kitchen > Configuration under your Sales & Billing module. 
+                           2. Click on +New Kitchen to add a kitchen.
+                           3. Give it a title as you want and click on Submit.
+
+
+  
+
+
+
+          
+
+
+Attach Category
+You can attach categories to the kitchens you create. By attaching categories to the kitchens you create, you can better classify and organize them based on their specific attributes and functions. These categories help provide a clear understanding of the purpose and characteristics of each kitchen, making it easier for you to identify and select the most suitable kitchen for your needs. 
+
+
+To attach categories,
+                           1. Go to Kitchen > Configuration under your Sales & Billing module.
+                           2. Click on Attach Category.
+                           3. Select kitchen from the dropdown boxes for each category available.
+                           4. Click on Submit.
+
+
+  
+
+
+
+  
+
+
+
+Assign User
+Assigning a user to the kitchen typically refers to designating specific roles or responsibilities to individuals who work in the kitchen. Each staff member is assigned to different positions based on their skills, expertise, and the needs of the kitchen. The assignment of roles in the kitchen is essential to maintain order, efficiency, and effective teamwork. Each staff member plays a crucial role in contributing to the overall success of the kitchen and ensuring that dishes are prepared and served to meet quality standards and customer expectations.
+
+
+To assign users to specific kitchen,
+                           1. Go to  Kitchen > Configuration under your Sales & Billing module.
+                           2. Click on Assign User.
+                           3. Select kitchen from the dropdown boxes for each user available.
+                           4. Click on Submit.
+
+
+  
+
+          
+
+
+
+
+Use Android App (POS) to Manage Your Orders
+To use the Quickly Sales & Billing app all you need is a smartphone or tablet, no technical knowledge needed. Simply install the app on your device and log in with your login ID & password.
+
+
+  
+
+
+
+
+
+Take orders from your customers
+After logging into the app, you will see the ongoing orders screen. To take orders, click on the ( + ) button at the bottom right corner and it will take you to the menu you have already created from your business portal.
+
+
+Just click on the plus ( + ) button beside each dish from the menu and it will be added to the cart. You can also search the dishes by their names from the search bar.
+
+
+  
+
+
+
+You can easily increase or decrease the quantity of the dish(es) by clicking on the plus ( + ) & minus ( - ) buttons.
+
+
+                                          
+
+
+You can delete the added item by clicking on the delete button right next to that item in the cart.
+                                          
+
+
+If you need to add a big quantity of any dish to the cart then long press over the + button and there will be a keyboard appearing on the screen to directly insert the quantity. Finally, click on the Add button and the inserted quantity for the item will be added to the cart.
+
+
+  
+
+
+
+After adding the items to the cart, you can print a copy for your kitchen by clicking on the kitchen print button. If your customer is not done with all the orders and may place some orders later, click on the send to queue button and the order will be placed in the ongoing orders section of your app. To complete the order, long press over the generate bill button. After clicking on the generate bill button, the order will be locked and you cannot change anything from your order.
+
+
+The token numbers for orders will be auto generated if the order tracking mode under Order Identification tab is set in your business portal to KOT. You can send the order details to kitchen print or to queue as well. You will find a token has been generated automatically against the order. We will discuss more in the next section about how you can generate tables or tokens manually.
+
+
+  
+
+
+
+If you are looking for a dish you’re not sure about the category of, you can directly search by the name from the search bar.
+
+
+  
+
+
+
+After tapping on the search button, type the name of your desired dish on the search bar and it will be filtered out.
+
+
+                                          
+
+
+Place order for on demand requested dishes using Custom Item
+You can generate a bill for custom items (e.g. requested item that is not your menu) from the order taking app using Custom Item option.
+
+
+To make a custom item, 
+                           1. From New Cart, tap Three Dot ( ⋮ ) and select Custom Item.
+
+
+  
+           
+
+
+                           2. Enter the item name, select a category, enter price and quantity.
+                           3. If there is sales tax or service charge for the item, toggle the switches next to them and tap Add to cart.
+
+
+                                          
+
+
+Assign table/token number
+Assign Token
+If the order tracking mode under the Order Identification tab is set to Tokens in your business portal then you need to manually select the token. Tap on arrow sign (>) right next to the service type (for example: Dine-in) in order to assign Token for any order.
+
+
+                                          
+
+
+You will find a layout containing the tokens you have set to your business portal. You can select only one token for one order and finally click on the Done button.
+
+
+                                          
+
+
+Your cart will show the assigned token number/name as follows:
+
+
+                                          
+
+
+Assign Table
+If the order tracking mode under the Order Identification tab is set to Table in your business portal then you need to manually select the tables. When placing a table order, clicking the ( + ) button on the ongoing order page to add an item from the menu initiates a process. Initially, you will encounter a layout displaying the table numbers you have already set to your business portal. From there, you have the option to choose one or more unoccupied tables for a single order. Once selections are made, you can proceed by clicking the "Done" button.
+
+
+                                    
+
+
+Your cart will show the assigned table numbers/names as follows:
+                                          
+
+
+Assign service type (dine-in, takeaway, restaurant delivery, delivery service)
+After adding dishes to the cart, you can assign the type of service you’re going to provide to your customers for each and every order. If your restaurant is providing dine-in, takeaway, restaurant delivery, and food delivery service all together, you need to check them all from the Order Identification page of your business portal. You can set your preferences according to your restaurant’s policy of providing service.
+
+
+By default Dine-in is going to be selected for any order. Tap on the arrow sign ( > ) right next to the Dine-in option in the cart page in order to change the service type.
+
+
+  
+
+
+
+If the customer does not want to sit and eat at the restaurant then select Takeaway from the order info page.
+
+
+                                    
+
+
+
+
+If your customer calls you and wants food to deliver to them using the restaurant’s own delivery service, then select Restaurant Delivery from the Order Info page. You can set the delivery charge from the business portal or you can set it from the Sales & Billing app after selecting the service type “Restaurant Delivery”. You have to enter customer’s phone number, name & address in the details.
+Note that if the order originates from e-Restaurant, the order type will be automatically set as "Restaurant Delivery," and the customer's details will be populated based on the information provided by the customer while ordering. Moreover, the delivery charge will be included according to your e-Restaurant preferences set by you.
+
+
+                                    
+
+
+If your customer prefers food delivery through other food delivery services, please choose the "Delivery Service" option on the Order Info page.
+
+
+                                    
+
+
+Send incomplete orders to the queue
+If you want to bill an order later, you can send it to the queue and will find it in the Ongoing Orders list in the home page.
+
+
+                                    
+
+
+Connect bluetooth printer to print bill, receipt or kitchen copy
+To pair your device with your printer in order to print bill, receipt or kitchen copy, click on the sidebar of the app and go to settings. You will see 2 printer options: cash printer & kitchen printer.
+
+
+                                          
+Tap on the Cash Printer and/or Kitchen Printer to select which printer will be used to print the bill and receipt to cash and/or kitchen copy to kitchen.
+
+
+                                          
+
+
+Note that if you have multiple kitchens in your restaurant, you can set printer/s for all the kitchens to print kitchen copy.
+
+
+After adding the dishes to the cart, tap on the Kitchen Print button to print the kitchen copy in order to forward the order details to the kitchen.
+
+
+                                          
+Set Your Printing Preferences
+Under the Branding & Settings section in your Business Portal, you have the option to configure two distinct Business Operation Models: "Pay First" and "Pay Later." It's important to note that these two models come with different printing preferences in the settings of the Sales & Billing app.
+
+
+Printing preference for Pay First model
+                           1. Text Only Print
+For faster printing, you can choose Text Only Print. But in this case no image will be printed. Moreover, if your printer doesn’t support languages other than English, you can’t print other languages in your prints.
+
+
+                           2. Automatic Kitchen Print
+Print KOTs automatically after generating bill.
+
+
+                           3. Automatic Receipt Print
+Print the receipt automatically after closing the order. 
+
+
+All you need to toggle the switches to enable these features.
+
+
+                           4. Receipt Paper Size
+Select the preferred size for your receipt. You can choose 58 mm or 78 mm according to your printer’s feature.
+
+
+                           5. Kitchen Print Font Size
+You can set preferred font size as you want from the printing preferences. The size you set will be reflected in the KOTs.
+
+
+                                          
+
+
+Printing preference for Pay Later model
+                           1. Text Only Print
+For faster printing, you can choose Text Only Print. But in this case no image will be printed. Moreover, if your printer doesn’t support languages other than English, you can’t print other languages in your prints.
+
+
+                           2. Automatic Bill Print
+You can print the bill automatically after generating the bill. 
+
+
+All you need to toggle the switches to enable these features.
+
+
+                           3. Receipt Paper Size
+Select the preferred size for your receipt. You can choose 58 mm or 78 mm according to your printer’s feature.
+
+
+                           4. Kitchen Print Font Size
+You can set preferred font size as you want from the printing preferences. The size you set will be reflected in the KOTs.
+
+
+                                  
+Orientation & Other Settings
+You can activate landscape orientation by enabling the Tablet Mode. Furthermore, you have the option to enable the change calculation mode, which calculates payments after generating a bill and proceeding to the payment method. Additionally, the Play Alert button can be turned on, which will trigger periodic alerts if any order in the ongoing order list remains queued or unaccepted.
+
+
+                                          
+
+
+Generate bill, close order and print receipt
+After adding the dishes to the cart, long press over the Generate Bill button in order to lock your order.
+
+
+                                          
+
+
+If Automatic Bill Print option is enabled in the printing preferences, the bill wil be printed automatically. Otherwise click on the Print Bill button if you want to print the bill for your customer and/or click on Proceed.
+
+
+                                          
+
+
+After proceeding from the cart page, Customer Information page will appear. Collect customer information or directly click on Proceed button.
+
+
+                                          
+
+
+Proceeding from customer information page, Payment Method page will appear. Select a payment method (Primerilly Cash will be selected) and click on Close Order button.
+
+
+  
+                                        
+
+
+Select Print Receipt if you want to print the receipt for your customer and click on Done.
+
+
+                                          
+
+
+This is how you can complete a full order cycle.
+
+
+Calculate changes with built-in calculator
+Quickly Sales & Billing App helps you to know the remaining to a customer after closing an order. For example, if the net payable is 16.25 and the customer gives you 20, the app calculates the change and shows that you have to give the customer 3.75 back.
+
+
+                           1. Go to Settings
+                           2. Turn on Change Calculation, you will find under “Others”.
+Now after closing an order the change calculation page will appear after the payment method page. Enter the amount you received, and you will see the Customer Change.
+
+
+                                    
+
+
+Take money through multiple payment methods (Split bills)
+If the customer wants to use multiple payment modes to pay the bill then, click on the Split button in order to split up the total payable amount in multiple modes.
+
+
+                                          
+
+
+The list of all the available payment modes will be showing up from where you need to select the modes and the amounts to pay the total bill (including/excluding the payment charge).
+
+
+                                          
+
+
+Collect and redeem reward points
+If you set your Loyalty Program in the business portal, then customers can get benefit from the program when placing orders through the sales & billing app. The customers need to put their contact details when placing the order and reward points for that order will be added to the portal against those unique contact numbers. You can check the reward points at the business portal’s Loyalty Program page.
+
+
+After generating the bill, click on the Proceed button to move forward.
+
+
+
+
+
+
+At this stage, provide the contact number to the customer information section.
+
+
+
+
+
+
+If the customer contact details has been already added for any earlier order, the name, email, address and the available reward points will be updated automatically. If the customer wishes to use the loyalty points, then click on the Redeem button.
+
+
+For example, the total payable amount is showing ৳500 for an order and the available loyalty points for that contact is 260, which is equivalent to ৳26. If the customer wants to proceed without using the loyalty points, then he/she has to pay ৳500. On the other hand, if he/she wants to use the reward points, click on the Redeem button.
+
+
+
+
+
+
+After redemption of the reward points, the total payable amount is now ৳1138 ( ৳1200 - ৳62). Now select the payment mode and complete the order.
+
+
+
+
+
+
+The reward points for the current order will again be added to the system and will be available to use for the next order.
